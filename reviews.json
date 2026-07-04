@@ -1,16 +1,5 @@
 [
   {
-    "id": "1783140339587-1w7o6q",
-    "name": "Photo Tester",
-    "rating": 5,
-    "company": "QA Studio",
-    "message": "Testing profile photo upload end to end.",
-    "website": "https://example.com/",
-    "avatar": "https://raw.githubusercontent.com/sufyan-frontend/sufyan-post-data/main/review-avatars/1783140339587-1w7o6q.png",
-    "active": false,
-    "date": "2026-07-04T04:45:39.587Z"
-  },
-  {
     "id": "1783139386447-xkk0ca",
     "name": "Faizan Hassan",
     "rating": 5,
