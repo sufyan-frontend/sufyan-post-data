@@ -7,7 +7,7 @@
     "message": "Testing profile photo upload end to end.",
     "website": "https://example.com/",
     "avatar": "https://raw.githubusercontent.com/sufyan-frontend/sufyan-post-data/main/review-avatars/1783140339587-1w7o6q.png",
-    "active": true,
+    "active": false,
     "date": "2026-07-04T04:45:39.587Z"
   },
   {
