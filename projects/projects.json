@@ -1,21 +1,5 @@
 [
   {
-    "id": "zz-api-test-project",
-    "title": "ZZ Renamed",
-    "description": "Updated via multipart.",
-    "url": "https://example.com/test",
-    "image": "/porfolio%20image/tillshop.png",
-    "tags": [
-      "Next.js",
-      "Testing"
-    ],
-    "featured": true,
-    "kind": "practice",
-    "order": -1,
-    "active": true,
-    "date": "2026-08-21T14:17:12.850Z"
-  },
-  {
     "id": "shifa-care-home",
     "title": "Shifa Care Home",
     "description": "A warm, trust-first website for a residential care home — hero, service cards covering residential, nursing, dementia and respite care, a facilities showcase, a \"day at Shifa\" timeline, staff profiles, family reviews, FAQs, and an enquiry form. Built with Next.js and Tailwind CSS.",
