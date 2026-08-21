@@ -1,7 +1,7 @@
 [
   {
     "id": "zz-api-test-project",
-    "title": "ZZ Api Test Project",
+    "title": "ZZ Renamed",
     "description": "Temporary record created by the endpoint test suite.",
     "url": "https://example.com/test",
     "image": "/porfolio%20image/tillshop.png",
@@ -9,7 +9,7 @@
       "Next.js",
       "Testing"
     ],
-    "featured": false,
+    "featured": true,
     "kind": "practice",
     "order": -1,
     "active": true,
