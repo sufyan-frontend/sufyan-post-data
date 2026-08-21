@@ -2,7 +2,7 @@
   {
     "id": "zz-api-test-project",
     "title": "ZZ Renamed",
-    "description": "Temporary record created by the endpoint test suite.",
+    "description": "Updated via multipart.",
     "url": "https://example.com/test",
     "image": "/porfolio%20image/tillshop.png",
     "tags": [
