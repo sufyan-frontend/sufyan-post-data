@@ -3,7 +3,7 @@
     "id": "crunch-bite-fast-food-karahi-tikka",
     "title": "Crunch Bite — Fast Food & Karahi Tikka",
     "description": "A bold, appetite-first website for a Narowal fast-food and karahi restaurant — hero with WhatsApp ordering, crowd-favourite dishes, a full filterable menu with live prices, deals and family combos, a story section with stats, customer reviews, an Instagram feed, and a location block with an order form wired to WhatsApp. Built with Next.js and Tailwind CSS.",
-    "url": "https://crunch-bite-weld.vercel.app/",
+    "url": "https://crunch-bite-suf.vercel.app/",
     "image": "https://raw.githubusercontent.com/sufyan-frontend/sufyan-post-data/main/projects/images/crunch-bite-fast-food-karahi-tikka.png",
     "tags": [
       "Next.js",
