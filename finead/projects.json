@@ -82,5 +82,19 @@
     "id": "mvi0yzq5-c4poz",
     "createdAt": "2026-10-21T11:24:46.301Z",
     "updatedAt": "2026-10-21T11:24:46.301Z"
+  },
+  {
+    "title": "Four-storey commercial block",
+    "discipline": "renovation",
+    "service": "Commercial Construction",
+    "location": "Johar Town, Lahore",
+    "year": "2023",
+    "summary": "Grey structure to finishing with shop fronts and sign zones planned in from day one.",
+    "image": "https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Commercial building frame under construction",
+    "active": true,
+    "id": "mvi0z1yu-68441",
+    "createdAt": "2026-10-21T11:24:49.206Z",
+    "updatedAt": "2026-10-21T11:24:49.206Z"
   }
 ]
