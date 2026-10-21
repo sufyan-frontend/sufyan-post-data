@@ -20,5 +20,16 @@
     "id": "mvi0zg6m-fel1x",
     "createdAt": "2026-10-21T11:25:07.630Z",
     "updatedAt": "2026-10-21T11:25:07.630Z"
+  },
+  {
+    "name": "Site & Installation",
+    "role": "Supervisors, painters, electricians and riggers",
+    "bio": "The crews you meet on site. They install, paint, wire and finish, and they send photo updates at the end of every working day.",
+    "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Electrician in a hard hat working on a fixture",
+    "active": true,
+    "id": "mvi0zhr8-j8q6b",
+    "createdAt": "2026-10-21T11:25:09.668Z",
+    "updatedAt": "2026-10-21T11:25:09.668Z"
   }
 ]
