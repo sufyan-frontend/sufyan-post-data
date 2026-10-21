@@ -1,6 +1,6 @@
 [
   {
-    "title": "TEST job A",
+    "title": "TEST job A edited",
     "team": "",
     "type": "",
     "summary": "test",
@@ -13,9 +13,9 @@
       "y"
     ],
     "id": "mvi0o1v7-qb2z6",
-    "active": true,
+    "active": false,
     "createdAt": "2026-10-21T11:16:15.859Z",
-    "updatedAt": "2026-10-21T11:16:15.859Z"
+    "updatedAt": "2026-10-21T11:16:24.161Z"
   },
   {
     "title": "TEST job B",
