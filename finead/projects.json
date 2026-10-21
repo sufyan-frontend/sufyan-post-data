@@ -98,20 +98,6 @@
     "updatedAt": "2026-10-21T11:24:49.206Z"
   },
   {
-    "title": "Browser QA Project",
-    "discipline": "advertising",
-    "service": "Shop Paint",
-    "location": "",
-    "year": "",
-    "summary": "Created in a real browser test.",
-    "image": "https://raw.githubusercontent.com/sufyan-frontend/sufyan-post-data/main/finead/images/projects/mvi1x8w3-7bakn-1792583484483.jpg",
-    "imageAlt": "",
-    "active": false,
-    "id": "mvi1x8w3-7bakn",
-    "createdAt": "2026-10-21T11:51:24.483Z",
-    "updatedAt": "2026-10-21T11:51:37.678Z"
-  },
-  {
     "title": "Family residence",
     "discipline": "renovation",
     "service": "Custom Home Builds",
