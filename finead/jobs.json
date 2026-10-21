@@ -98,5 +98,22 @@
     "id": "mvi0zd2q-boxdl",
     "createdAt": "2026-10-21T11:25:03.602Z",
     "updatedAt": "2026-10-21T11:25:03.602Z"
+  },
+  {
+    "title": "QA Test Role",
+    "team": "Digital",
+    "type": "Full-time",
+    "summary": "Created from the admin form test.",
+    "duties": [
+      "Write tests",
+      "Ship fixes"
+    ],
+    "needs": [
+      "Patience"
+    ],
+    "active": true,
+    "id": "mvi11yo6-43es5",
+    "createdAt": "2026-10-21T11:27:04.902Z",
+    "updatedAt": "2026-10-21T11:27:04.902Z"
   }
 ]
