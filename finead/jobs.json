@@ -100,20 +100,19 @@
     "updatedAt": "2026-10-21T11:25:03.602Z"
   },
   {
-    "title": "QA Test Role",
+    "title": "QA Test Role (edited)",
     "team": "Digital",
     "type": "Full-time",
-    "summary": "Created from the admin form test.",
+    "summary": "Edited.",
     "duties": [
-      "Write tests",
-      "Ship fixes"
+      "One"
     ],
     "needs": [
-      "Patience"
+      "Two"
     ],
-    "active": true,
+    "active": false,
     "id": "mvi11yo6-43es5",
     "createdAt": "2026-10-21T11:27:04.902Z",
-    "updatedAt": "2026-10-21T11:27:04.902Z"
+    "updatedAt": "2026-10-21T11:27:41.414Z"
   }
 ]
