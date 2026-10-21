@@ -96,5 +96,19 @@
     "id": "mvi0z1yu-68441",
     "createdAt": "2026-10-21T11:24:49.206Z",
     "updatedAt": "2026-10-21T11:24:49.206Z"
+  },
+  {
+    "title": "Family residence",
+    "discipline": "renovation",
+    "service": "Custom Home Builds",
+    "location": "Bahria Town, Lahore",
+    "year": "2023",
+    "summary": "A one-kanal home built to the architect's drawings with stage-wise payments.",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Contemporary house exterior at dusk",
+    "active": true,
+    "id": "mvi0z3fc-tr940",
+    "createdAt": "2026-10-21T11:24:51.096Z",
+    "updatedAt": "2026-10-21T11:24:51.096Z"
   }
 ]
