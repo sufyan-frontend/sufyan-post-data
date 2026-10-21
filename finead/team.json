@@ -9,5 +9,16 @@
     "id": "mvi0zetp-byx5k",
     "createdAt": "2026-10-21T11:25:05.869Z",
     "updatedAt": "2026-10-21T11:25:05.869Z"
+  },
+  {
+    "name": "Workshop & Fabrication",
+    "role": "Steel, acrylic, ACP and joinery",
+    "bio": "Builds hoarding frames, sign letters, cladding panels and display fixtures in-house so quality and timing stay in our hands.",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Craftsman cutting timber in a workshop",
+    "active": true,
+    "id": "mvi0zg6m-fel1x",
+    "createdAt": "2026-10-21T11:25:07.630Z",
+    "updatedAt": "2026-10-21T11:25:07.630Z"
   }
 ]
