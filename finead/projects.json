@@ -54,5 +54,19 @@
     "id": "mvi0ywt1-a8nmc",
     "createdAt": "2026-10-21T11:24:42.517Z",
     "updatedAt": "2026-10-21T11:24:42.517Z"
+  },
+  {
+    "title": "Café franchise refit",
+    "discipline": "renovation",
+    "service": "Franchise Renovation",
+    "location": "DHA Phase 6, Lahore",
+    "year": "2024",
+    "summary": "A full refit to the franchisor's manual, opened on the date agreed.",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Café interior with industrial pendant lights",
+    "active": true,
+    "id": "mvi0yy8t-7s8xd",
+    "createdAt": "2026-10-21T11:24:44.381Z",
+    "updatedAt": "2026-10-21T11:24:44.381Z"
   }
 ]
