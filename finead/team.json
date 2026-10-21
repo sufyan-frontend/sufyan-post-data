@@ -31,5 +31,16 @@
     "id": "mvi0zhr8-j8q6b",
     "createdAt": "2026-10-21T11:25:09.668Z",
     "updatedAt": "2026-10-21T11:25:09.668Z"
+  },
+  {
+    "name": "Projects & Client Service",
+    "role": "Planning, budgets and approvals",
+    "bio": "Your single point of contact. Keeps the programme, the costs and the paperwork moving, and tells you early if anything changes.",
+    "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Two colleagues celebrating at a desk",
+    "active": true,
+    "id": "mvi0zj7d-so7gf",
+    "createdAt": "2026-10-21T11:25:11.545Z",
+    "updatedAt": "2026-10-21T11:25:11.545Z"
   }
 ]
