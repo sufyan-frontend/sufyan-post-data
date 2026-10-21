@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Graphic Designer, Print & Signage",
+    "team": "Design Studio",
+    "type": "Full-time · On-site",
+    "summary": "Adapt brand artwork for hoardings, shop fronts and interiors, and prepare print-ready files.",
+    "duties": [
+      "Prepare large-format artwork and production files",
+      "Create mock-ups of signage on real site photos",
+      "Work with the workshop on materials and sizes"
+    ],
+    "needs": [
+      "2+ years in print or signage design",
+      "Strong Illustrator and Photoshop",
+      "Comfort with scale and bleed for large formats"
+    ],
+    "active": true,
+    "id": "mvi0z6py-c56ek",
+    "createdAt": "2026-10-21T11:24:55.366Z",
+    "updatedAt": "2026-10-21T11:24:55.366Z"
+  }
+]
