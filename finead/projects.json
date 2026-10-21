@@ -26,5 +26,19 @@
     "id": "mvi0ytyo-sjmou",
     "createdAt": "2026-10-21T11:24:38.832Z",
     "updatedAt": "2026-10-21T11:24:38.832Z"
+  },
+  {
+    "title": "Head office fit-out",
+    "discipline": "branding",
+    "service": "Corporate Office Interior",
+    "location": "MM Alam Road, Lahore",
+    "year": "2024",
+    "summary": "An open floor with glass meeting rooms, exposed services and branded reception.",
+    "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Open office with exposed ceiling and glass partitions",
+    "active": true,
+    "id": "mvi0yvdy-ualz6",
+    "createdAt": "2026-10-21T11:24:40.678Z",
+    "updatedAt": "2026-10-21T11:24:40.678Z"
   }
 ]
