@@ -40,5 +40,19 @@
     "id": "mvi0yvdy-ualz6",
     "createdAt": "2026-10-21T11:24:40.678Z",
     "updatedAt": "2026-10-21T11:24:40.678Z"
+  },
+  {
+    "title": "Bus shelter campaign",
+    "discipline": "advertising",
+    "service": "OOH Advertising",
+    "location": "Mall Road, Lahore",
+    "year": "2024",
+    "summary": "Backlit street furniture panels with weekly proof-of-display reporting.",
+    "image": "https://images.unsplash.com/photo-1635873432087-50eba4c4392d?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Lit advertising panel at a bus stop at night",
+    "active": true,
+    "id": "mvi0ywt1-a8nmc",
+    "createdAt": "2026-10-21T11:24:42.517Z",
+    "updatedAt": "2026-10-21T11:24:42.517Z"
   }
 ]
