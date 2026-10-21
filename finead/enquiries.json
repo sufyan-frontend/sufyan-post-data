@@ -1,17 +1,1 @@
-[
-  {
-    "name": "Admin Flow Test",
-    "company": "QA",
-    "email": "sufyantechsolutions@gmail.com",
-    "phone": "+92 300 1234567",
-    "service": "hoardings",
-    "serviceTitle": "Hoardings",
-    "message": "End-to-end test: this enquiry should appear in the admin inbox.",
-    "status": "contacted",
-    "notes": "Called back, site visit Tuesday",
-    "id": "mvi178cp-zl2k5",
-    "active": true,
-    "createdAt": "2026-10-21T11:31:10.729Z",
-    "updatedAt": "2026-10-21T11:31:25.304Z"
-  }
-]
+[]
