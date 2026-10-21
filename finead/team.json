@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TEST member",
+    "role": "Tester",
+    "bio": "",
+    "image": "https://raw.githubusercontent.com/sufyan-frontend/sufyan-post-data/main/finead/images/team/mvi0oe02-bgsqz-1792581391586.png",
+    "imageAlt": "",
+    "id": "mvi0oe02-bgsqz",
+    "active": true,
+    "createdAt": "2026-10-21T11:16:31.586Z",
+    "updatedAt": "2026-10-21T11:16:31.586Z"
+  }
+]
