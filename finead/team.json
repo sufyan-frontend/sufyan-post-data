@@ -42,16 +42,5 @@
     "id": "mvi0zj7d-so7gf",
     "createdAt": "2026-10-21T11:25:11.545Z",
     "updatedAt": "2026-10-21T11:25:11.545Z"
-  },
-  {
-    "name": "QA Tester",
-    "role": "Quality",
-    "bio": "Upload test",
-    "image": "https://raw.githubusercontent.com/sufyan-frontend/sufyan-post-data/main/finead/images/team/mvi135hl-7nyor-1792582080393.jpg",
-    "imageAlt": "Black square",
-    "active": true,
-    "id": "mvi135hl-7nyor",
-    "createdAt": "2026-10-21T11:28:00.393Z",
-    "updatedAt": "2026-10-21T11:28:00.393Z"
   }
 ]
