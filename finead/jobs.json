@@ -1,0 +1,20 @@
+[
+  {
+    "title": "TEST job A",
+    "team": "",
+    "type": "",
+    "summary": "test",
+    "duties": [
+      "one",
+      "two"
+    ],
+    "needs": [
+      "x",
+      "y"
+    ],
+    "id": "mvi0o1v7-qb2z6",
+    "active": true,
+    "createdAt": "2026-10-21T11:16:15.859Z",
+    "updatedAt": "2026-10-21T11:16:15.859Z"
+  }
+]
