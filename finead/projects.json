@@ -110,5 +110,19 @@
     "id": "mvi0z3fc-tr940",
     "createdAt": "2026-10-21T11:24:51.096Z",
     "updatedAt": "2026-10-21T11:24:51.096Z"
+  },
+  {
+    "title": "Corner store repaint",
+    "discipline": "branding",
+    "service": "Shop Paint",
+    "location": "Model Town, Lahore",
+    "year": "2022",
+    "summary": "Surface prep, brand colour match and fresh trim on a long-standing neighbourhood shop.",
+    "image": "https://images.unsplash.com/photo-1777879760931-3a21a9bf42d6?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Freshly painted corner shop with trimmed facade",
+    "active": true,
+    "id": "mvi0z4xv-8tpd5",
+    "createdAt": "2026-10-21T11:24:53.059Z",
+    "updatedAt": "2026-10-21T11:24:53.059Z"
   }
 ]
