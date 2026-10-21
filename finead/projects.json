@@ -12,5 +12,19 @@
     "id": "mvi0yset-x0f9e",
     "createdAt": "2026-10-21T11:24:36.821Z",
     "updatedAt": "2026-10-21T11:24:36.821Z"
+  },
+  {
+    "title": "Boutique shop front",
+    "discipline": "branding",
+    "service": "Retail Branding",
+    "location": "Gulberg, Lahore",
+    "year": "2025",
+    "summary": "Charcoal cladding, brass lettering and a lit window that works after dark.",
+    "image": "https://images.unsplash.com/photo-1580554430120-94cfcb3adf25?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Dark facade boutique with illuminated window",
+    "active": true,
+    "id": "mvi0ytyo-sjmou",
+    "createdAt": "2026-10-21T11:24:38.832Z",
+    "updatedAt": "2026-10-21T11:24:38.832Z"
   }
 ]
