@@ -68,5 +68,19 @@
     "id": "mvi0yy8t-7s8xd",
     "createdAt": "2026-10-21T11:24:44.381Z",
     "updatedAt": "2026-10-21T11:24:44.381Z"
+  },
+  {
+    "title": "Fashion store interior",
+    "discipline": "branding",
+    "service": "Retail Interior",
+    "location": "Packages Mall, Lahore",
+    "year": "2023",
+    "summary": "Custom rails, display tables and lighting tuned to make the product read.",
+    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1600&q=80",
+    "imageAlt": "Fashion retail interior with wall-mounted rails",
+    "active": true,
+    "id": "mvi0yzq5-c4poz",
+    "createdAt": "2026-10-21T11:24:46.301Z",
+    "updatedAt": "2026-10-21T11:24:46.301Z"
   }
 ]
