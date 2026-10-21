@@ -18,5 +18,25 @@
     "id": "mvi0z6py-c56ek",
     "createdAt": "2026-10-21T11:24:55.366Z",
     "updatedAt": "2026-10-21T11:24:55.366Z"
+  },
+  {
+    "title": "Interior Designer / 3D Visualiser",
+    "team": "Design Studio",
+    "type": "Full-time · On-site",
+    "summary": "Plan retail and office interiors and produce 3D views clients can sign off with confidence.",
+    "duties": [
+      "Space planning and joinery drawings",
+      "3D renders for client approval",
+      "Material and finish schedules"
+    ],
+    "needs": [
+      "Degree or diploma in interior design",
+      "SketchUp or 3ds Max with a renderer",
+      "AutoCAD drawings for site"
+    ],
+    "active": true,
+    "id": "mvi0z8cu-d5haj",
+    "createdAt": "2026-10-21T11:24:57.486Z",
+    "updatedAt": "2026-10-21T11:24:57.486Z"
   }
 ]
