@@ -1,0 +1,249 @@
+{
+  "slug": "home",
+  "content": {
+    "hero": {
+      "badge": "ANP Engineering",
+      "primaryButton": "Our Services",
+      "secondaryButton": "Contact Us",
+      "slides": [
+        {
+          "title": "Building The Future",
+          "highlight": "With Excellence",
+          "description": "Leading construction and engineering solutions for mechanical, civil, and electrical projects across Malaysia.",
+          "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1920&q=80"
+        },
+        {
+          "title": "Quality Engineering",
+          "highlight": "& Construction",
+          "description": "Delivering world-class mechanical works, civil construction, and facility management with precision and safety.",
+          "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1920&q=80"
+        },
+        {
+          "title": "Trusted Partner For",
+          "highlight": "Industrial Projects",
+          "description": "15 years of experience providing reliable construction resources, manpower supply, and electrical instrumentation.",
+          "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=1920&q=80"
+        }
+      ]
+    },
+    "about": {
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80",
+      "imageAlt": "ANP Engineering team at work",
+      "statNumber": "15",
+      "statLabel": "Years Experience",
+      "eyebrow": "About Our Company",
+      "title": "We Build What Matters",
+      "highlight": "Most",
+      "paragraph1": "ANP Engineering & Construction Sdn. Bhd. is a leading construction and engineering company specializing in mechanical works, civil construction, electrical & instrumentation, manpower supply, and facility management. We are committed to delivering projects with the highest standards of quality, safety, and efficiency.",
+      "paragraph2": "With a team of highly skilled professionals and decades of experience, we have successfully completed numerous projects across various industries, earning the trust of our clients.",
+      "highlights": [
+        "15 Years of Industry Experience",
+        "Certified Safety & Quality Standards",
+        "Skilled Professional Engineers & Technicians",
+        "On-Time Project Delivery Track Record"
+      ],
+      "button": "Learn More"
+    },
+    "services": {
+      "eyebrow": "What We Offer",
+      "title": "Our",
+      "highlight": "Services",
+      "description": "We provide a comprehensive range of construction and engineering services to meet the diverse needs of our clients across various industries.",
+      "linkLabel": "Learn More",
+      "items": [
+        {
+          "title": "Mechanical Works",
+          "description": "Piping fabrication & installation, structural steel works, tank construction, and equipment installation."
+        },
+        {
+          "title": "Civil Works",
+          "description": "Building construction, foundation works, road & drainage, and all types of civil engineering projects."
+        },
+        {
+          "title": "Electrical & Instrumentation",
+          "description": "Complete E&I installation, cable laying, control panel wiring, and instrumentation calibration."
+        },
+        {
+          "title": "Manpower Supply",
+          "description": "Skilled and semi-skilled workers, engineers, supervisors, and technical manpower for all project needs."
+        },
+        {
+          "title": "Construction Resources",
+          "description": "Heavy equipment rental, construction materials supply, and logistics support for project sites."
+        },
+        {
+          "title": "Facility Management",
+          "description": "Comprehensive facility maintenance, operations management, and building management services."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "stats": [
+        {
+          "value": "500+",
+          "label": "Projects Completed"
+        },
+        {
+          "value": "15",
+          "label": "Years Experience"
+        },
+        {
+          "value": "150+",
+          "label": "Expert Engineers"
+        },
+        {
+          "value": "50+",
+          "label": "Trusted Clients"
+        }
+      ],
+      "eyebrow": "Why Choose Us",
+      "title": "Building Trust Through",
+      "highlight": "Excellence",
+      "description": "We stand behind every project with our commitment to quality, safety, and client satisfaction.",
+      "benefits": [
+        {
+          "title": "Safety First",
+          "description": "Strict adherence to HSE policies and international safety standards on every project."
+        },
+        {
+          "title": "Quality Assured",
+          "description": "ISO-certified processes ensuring the highest quality in all deliverables."
+        },
+        {
+          "title": "Timely Delivery",
+          "description": "Proven track record of completing projects on schedule and within budget."
+        },
+        {
+          "title": "Trusted Partners",
+          "description": "Long-term partnerships with leading companies across various industries."
+        },
+        {
+          "title": "Expert Team",
+          "description": "Highly qualified engineers, technicians, and project managers with decades of experience."
+        },
+        {
+          "title": "Innovation Driven",
+          "description": "Embracing modern technologies and methodologies for efficient project execution."
+        }
+      ]
+    },
+    "projects": {
+      "eyebrow": "Our Portfolio",
+      "title": "Featured",
+      "highlight": "Projects",
+      "linkLabel": "View All Projects",
+      "items": [
+        {
+          "title": "Industrial Plant Construction",
+          "category": "Mechanical Works",
+          "image": "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?w=600&q=80"
+        },
+        {
+          "title": "Commercial Building Project",
+          "category": "Civil Works",
+          "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=80"
+        },
+        {
+          "title": "Power Plant Installation",
+          "category": "Electrical & Instrumentation",
+          "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=600&q=80"
+        },
+        {
+          "title": "Pipeline Infrastructure",
+          "category": "Mechanical Works",
+          "image": "https://images.unsplash.com/photo-1590846083693-f23fdede3a7e?w=600&q=80"
+        },
+        {
+          "title": "Warehouse & Facility",
+          "category": "Facility Management",
+          "image": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=600&q=80"
+        },
+        {
+          "title": "Structural Steel Works",
+          "category": "Construction Resources",
+          "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&q=80"
+        }
+      ]
+    },
+    "clients": {
+      "eyebrow": "Our Clients",
+      "title": "Trusted By",
+      "highlight": "Industry Leaders",
+      "description": "We are proud to have partnered with some of the most renowned companies in the oil & gas and construction industries.",
+      "items": [
+        {
+          "name": "PETRONAS",
+          "industry": "Oil & Gas",
+          "logo": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "SHELL",
+          "industry": "Energy",
+          "logo": "https://images.unsplash.com/photo-1563694983011-6f4d90358083?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "EXXONMOBIL",
+          "industry": "Oil & Gas",
+          "logo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "SAPURA",
+          "industry": "Engineering",
+          "logo": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "DIALOG",
+          "industry": "Engineering",
+          "logo": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "SERBA DINAMIK",
+          "industry": "Services",
+          "logo": "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "TECHNIP",
+          "industry": "Construction",
+          "logo": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "SAMSUNG ENG",
+          "industry": "Engineering",
+          "logo": "https://images.unsplash.com/photo-1590846083693-f23fdede3a7e?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "PENGERANG",
+          "industry": "Refinery",
+          "logo": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "TOYO",
+          "industry": "Engineering",
+          "logo": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "LINDE",
+          "industry": "Industrial Gas",
+          "logo": "https://images.unsplash.com/photo-1513828583688-c52646db42da?w=200&h=200&q=80&fit=crop"
+        },
+        {
+          "name": "WASCO",
+          "industry": "Pipeline",
+          "logo": "https://images.unsplash.com/photo-1574169208507-84376144848b?w=200&h=200&q=80&fit=crop"
+        }
+      ]
+    },
+    "cta": {
+      "background": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1920&q=80",
+      "eyebrow": "Start Your Project Today",
+      "title": "Ready To Build Something",
+      "highlight": "Extraordinary?",
+      "description": "Whether it's a large-scale industrial project or facility management, our team is ready to deliver excellence. Get in touch with us today.",
+      "primaryButton": "Start A Project",
+      "secondaryButton": "Call Us Now",
+      "hours": "Business Hours: Mon - Fri, 8:00 AM - 6:00 PM",
+      "phone": "+60 11-2667 7896"
+    }
+  },
+  "updatedAt": "2026-11-16T14:50:44.442Z"
+}
