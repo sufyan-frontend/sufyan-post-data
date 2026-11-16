@@ -1,0 +1,194 @@
+{
+  "slug": "site",
+  "content": {
+    "contact": {
+      "phone": "+60 11-2667 7896",
+      "email": "anpengcon@gmail.com",
+      "mapUrl": "https://maps.google.com"
+    },
+    "socials": [
+      {
+        "label": "Facebook",
+        "href": "#"
+      },
+      {
+        "label": "Twitter",
+        "href": "#"
+      },
+      {
+        "label": "Instagram",
+        "href": "#"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "#"
+      }
+    ],
+    "header": {
+      "address": "Kuala Lumpur, Malaysia",
+      "addressShort": "Kuala Lumpur",
+      "followLabel": "Follow Us:",
+      "ctaLabel": "Get A Quote",
+      "ctaHref": "/contact",
+      "nav": [
+        {
+          "title": "ADSFADSFADSFASD",
+          "href": "/",
+          "submenu": []
+        },
+        {
+          "title": "About",
+          "href": "/about",
+          "submenu": [
+            {
+              "title": "Overview",
+              "href": "/about/overview"
+            },
+            {
+              "title": "Health, Safety & Environment Policy",
+              "href": "/about/health-safety-environment-policy"
+            },
+            {
+              "title": "Quality Policy",
+              "href": "/about/quality-policy"
+            },
+            {
+              "title": "Award & Recognition",
+              "href": "/about/award-recognition"
+            },
+            {
+              "title": "Teams",
+              "href": "/about/teams"
+            }
+          ]
+        },
+        {
+          "title": "Services",
+          "href": "/services",
+          "submenu": [
+            {
+              "title": "Mechanical Works",
+              "href": "/services/mechanical-works"
+            },
+            {
+              "title": "Civil Works",
+              "href": "/services/civil-works"
+            },
+            {
+              "title": "Electrical & Instrumentation",
+              "href": "/services/electrical-instrumentation"
+            },
+            {
+              "title": "Manpower & Equipments Supply",
+              "href": "/services/manpower-equipments-supply"
+            },
+            {
+              "title": "Construction Resources Supply",
+              "href": "/services/construction-resources-supply"
+            },
+            {
+              "title": "Facility Management",
+              "href": "/services/facility-management"
+            }
+          ]
+        },
+        {
+          "title": "Projects",
+          "href": "/projects",
+          "submenu": []
+        },
+        {
+          "title": "Gallery",
+          "href": "/gallery",
+          "submenu": []
+        },
+        {
+          "title": "Career",
+          "href": "/career",
+          "submenu": []
+        },
+        {
+          "title": "Clients",
+          "href": "/clients",
+          "submenu": []
+        },
+        {
+          "title": "Contact",
+          "href": "/contact",
+          "submenu": []
+        }
+      ]
+    },
+    "footer": {
+      "about": "ANP Engineering & Construction Sdn. Bhd. is a leading construction and engineering company delivering quality solutions across mechanical, civil, and electrical projects.",
+      "address": "Sungai besi, Kuala Lumpur",
+      "quickLinksTitle": "Quick Links",
+      "quickLinks": [
+        {
+          "title": "Home",
+          "href": "/"
+        },
+        {
+          "title": "About Us",
+          "href": "/about/overview"
+        },
+        {
+          "title": "Projects",
+          "href": "/projects"
+        },
+        {
+          "title": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "title": "Career",
+          "href": "/career"
+        },
+        {
+          "title": "Contact",
+          "href": "/contact"
+        }
+      ],
+      "servicesTitle": "Our Services",
+      "serviceLinks": [
+        {
+          "title": "Mechanical Works",
+          "href": "/services/mechanical-works"
+        },
+        {
+          "title": "Civil Works",
+          "href": "/services/civil-works"
+        },
+        {
+          "title": "Electrical & Instrumentation",
+          "href": "/services/electrical-instrumentation"
+        },
+        {
+          "title": "Manpower Supply",
+          "href": "/services/manpower-equipments-supply"
+        },
+        {
+          "title": "Construction Resources",
+          "href": "/services/construction-resources-supply"
+        },
+        {
+          "title": "Facility Management",
+          "href": "/services/facility-management"
+        }
+      ],
+      "contactTitle": "Contact Us",
+      "copyright": "ANP Engineering & Construction Sdn. Bhd. All rights reserved.",
+      "bottomLinks": [
+        {
+          "title": "HSE Policy",
+          "href": "/about/health-safety-environment-policy"
+        },
+        {
+          "title": "Quality Policy",
+          "href": "/about/quality-policy"
+        }
+      ]
+    }
+  },
+  "updatedAt": "2026-11-16T16:41:29.543Z"
+}
