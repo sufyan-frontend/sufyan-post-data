@@ -32,7 +32,7 @@
       "ctaHref": "/contact",
       "nav": [
         {
-          "title": "CCCCCC",
+          "title": "HOME",
           "href": "/",
           "submenu": []
         },
@@ -190,5 +190,5 @@
       ]
     }
   },
-  "updatedAt": "2026-11-16T16:42:47.106Z"
+  "updatedAt": "2026-11-16T16:43:33.104Z"
 }
